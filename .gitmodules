@@ -1,0 +1,3 @@
+[submodule "python_sample_shared_module_base"]
+	path = python_sample_shared_module_base
+	url = git@github.com:rafaelyokota/python_sample_shared_module_base.git
