@@ -1,5 +1,7 @@
 # python_sample_shared_module
 
+Template para uso de pacotes em comum em projetos diferentes(subprojetos)
+ - Ideal é implementar testes unitarios nos projetos
 
 >Development<br />
 >> Common Base (GIT - python_sample_shared_module_base)<br />
